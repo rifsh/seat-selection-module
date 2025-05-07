@@ -1,13 +1,15 @@
 {
-  "name": "movie-seat-package",
+  "name": "seat-selection-module",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
-  "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  }
+  "keywords": [
+    "seat",
+    "selection",
+    "booking"
+  ],
+  "license": "MIT"
 }
